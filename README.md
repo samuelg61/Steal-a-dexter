@@ -1,5 +1,4 @@
-# Steal-a-dexter
-Steal a dexter script in roblox super op
+
 -- Services
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
